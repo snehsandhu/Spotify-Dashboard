@@ -1,5 +1,3 @@
-@@ -1 +1,4 @@
-# Spotify_Dashboard
 # Spotify_Dashboard
 An interactive PowerBI Dashboard based on the Spotifya Kaggle dataset categorizing numerous artists in a filterable format, capable of comparing 9+ KPIs. Utilized external tools like Spotify Developer API, Deneb, Bravo, and more to achieve the result while also introducing calculated measures and a fair bit of DAX coding.
 Key focus: Streamlined shortlisting and visualization and User Interactability
